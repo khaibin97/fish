@@ -1,1 +1,1 @@
-All sorts of sorting
+All sorts of basic sorting, Heap, insertion, Selection
